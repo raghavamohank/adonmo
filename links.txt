@@ -1,0 +1,9 @@
+https://github.com/nhn/tui.image-editor#photo-manipulation
+
+https://cloudinary.com/documentation/react_image_manipulation#resizing_and_cropping
+
+https://cloudinary.com/documentation/react_image_manipulation#adding_text_and_image_overlays
+
+
+create gif
+https://scotch.io/tutorials/build-your-own-giphy-alternative-with-react
